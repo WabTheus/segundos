@@ -8,3 +8,13 @@ S
 .container {
     padding: 0px 50px;
 }
+nav {
+    background-color: rgb(255, 41, 41);
+    border-radius: 10px 10px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    color: aliceblue;
+    box-shadow: 2px 2px 2px rgb(60, 247, 104);
+
+}
